@@ -1,4 +1,5 @@
 📊 Procesador de Asistencia Zoom - Semillero 
+
 Esta es una aplicación web ligera construida con Streamlit diseñada para automatizar la limpieza, unificación y cálculo de minutos de los reportes de asistencia generados por Zoom.
 
 🚀 Características Principales
