@@ -2,8 +2,6 @@
 
 **🚀 [¡HAZ CLIC AQUÍ PARA USAR LA APLICACIÓN EN VIVO!](https://semillero-asistencia.streamlit.app/) 🚀**
 
-Esta es una aplicación web ligera construida con...
-
 Esta es una aplicación web ligera construida con Streamlit diseñada para automatizar la limpieza, unificación y cálculo de minutos de los reportes de asistencia generados por Zoom.
 
 ## 🚀 Características Principales
