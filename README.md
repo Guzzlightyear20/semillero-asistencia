@@ -47,7 +47,11 @@ Se abrirá automáticamente una pestaña en tu navegador web con la herramienta 
 🛠️ Tecnologías Utilizadas
 
 Python: Lenguaje principal.
+
 Streamlit: Framework para crear la interfaz web de forma rápida.
+
 Pandas: Para la manipulación, agrupación y limpieza de los datos.
+
 Regex (Expresiones Regulares): Para buscar y aislar los DNIs y limpiar el texto con precisión matemática.
+
 XlsxWriter: Motor para exportar los DataFrames a formato Excel.
